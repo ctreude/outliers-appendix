@@ -1,4 +1,4 @@
-# Online appendix for ``Outlier Awareness on GitHub''
+# Online appendix for "Outlier Awareness on GitHub"
 
 [List of 200 GitHub projects used in the study](https://github.com/ctreude/outliers-appendix/blob/master/projects.md)
 
